@@ -2,7 +2,11 @@
 
 ## About Me
 
-I like solving problems, building systems, and learning new things. I love building powerful UIs, deep data visualizations, and scalable backend services. I'm a developer who loves building tools that simplify workflows for streamers, automate video production, and integrate AI into creative projects. My main focus is on **Rust**, but I also work extensively with **TypeScript** and **Python**. My GitHub projects reflect my passion for automating complex processes and making it easier for creators to focus on what they do best: creating content!
+I like solving problems, building systems, and learning new things. I love building powerful UIs, deep data visualizations, and scalable backend services.
+
+I'm a developer who loves creating tools that simplify workflows for streamers, automate video production, and integrate AI into creative projects. **Rust** is my main focus as a language I'm trying to get better at, but I also work extensively with **TypeScript** and **Python**.
+
+My GitHub projects reflect my passion for automating complex processes and making it easier for creators to focus on what they do best: creating content!
 
 ## Current Work
 
