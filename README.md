@@ -52,6 +52,7 @@ You can learn more on my [GitHub Sponsors page](https://github.com/sponsors/saeb
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saebyn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saebyn&show_icons=true&layout=compact&theme=tokyonight" alt="saebyn top languages" />
 </p>
 
 ---
