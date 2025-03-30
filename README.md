@@ -12,6 +12,7 @@ My GitHub projects reflect my passion for automating complex processes and makin
 
 - **Video Editing Automation**: Tools to cut, splice, and enhance videos directly from stream recordings.
 - **Stream Management Tools**: Solutions to organize, highlight, and transcribe stream VODs automatically, using AI to identify highlights and suggest chapters.
+- **Learning Godot**: Venturing into game development with Godot, getting back into some basic game development with some simple game projects for practice
 
 ## What's Next?
 
