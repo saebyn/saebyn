@@ -36,26 +36,6 @@ Every bit of support directly contributes to making creative workflows easier an
 
 You can learn more on my [GitHub Sponsors page](https://github.com/sponsors/saebyn) and help me continue building awesome tools!
 
-## Tech & Tools
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![React Admin](https://img.shields.io/badge/React%20Admin-09B3AF?style=flat-square&logo=react&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saebyn&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saebyn&show_icons=true&layout=compact&theme=tokyonight" alt="saebyn top languages" />
-</p>
-
 ---
 
 Thanks for stopping by! Feel free to explore my repos, and don’t hesitate to reach out if you want to collaborate or just say hi! 😄
